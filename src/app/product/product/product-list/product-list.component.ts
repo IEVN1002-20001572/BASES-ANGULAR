@@ -17,7 +17,7 @@ export class ProductListComponent {
       "Year":2023,
       "Marca":"NISSAN",
       "Color":"Azul",
-      "ImagenUrl":""
+      "ImagenUrl":"https://static.wikia.nocookie.net/heroe/images/4/44/Rayo_McQueen_CAeeC.png/revision/latest?cb=20231118102622&path-prefix=es"
     },
     {
       "productoId":2,
@@ -27,7 +27,7 @@ export class ProductListComponent {
       "Year":2020,
       "Marca":"KIA",
       "Color":"Azul",
-      "ImagenUrl":""
+      "ImagenUrl":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fes.wikipedia.org%2Fwiki%2FTroll_%2528automoci%25C3%25B3n%2529&psig=AOvVaw3YsOSnJLb8gGnWL2ZVQmZd&ust=1726971636459000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOj17On80ogDFQAAAAAdAAAAABAJ"
     },
     {
       "productoId":3,
@@ -37,7 +37,7 @@ export class ProductListComponent {
       "Year":2021,
       "Marca":"VOLKSWAGEN",
       "Color":"Azul",
-      "ImagenUrl":""
+      "ImagenUrl":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDtCAX2nLf1szk9Km0p7BQuH6IPn5Y-JDZAA&s"
     }
   ]
 
